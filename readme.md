@@ -6,7 +6,7 @@ Scraping Saraiva -- Uma apliacação simples para realzar consultas dentro do si
 
 📄 Licença -- Este projeto está sob a licença (MIT).
 
-Utilização
+    Utilização
 
 Para utilizar a aplicação segue instruções de uso abaixo:
 
