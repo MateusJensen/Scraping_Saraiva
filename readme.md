@@ -10,7 +10,7 @@
 
 Para utilizar a aplicação segue instruções de uso abaixo:
 
-1 - Faça a download do repositório;
+1 - Faça o download do repositório;
 
 2 - Para que a API fique online, com VSCODE ou editor de código de sua preferência execute o arquivo api.js;
 
