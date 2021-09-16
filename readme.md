@@ -22,7 +22,7 @@ Para utilizar a aplicação segue instruções de uso abaixo:
   
       {
         "LIVRO": "Nome do livro vai aqui",
-        "CATEGORIA": 1 ou 2 
+        "CATEGORIA": (1 ou 2)
       }
       
   2° BODY ---> Devolverá três comentários sobre o livro que deseja pesquisar. Caso não haja comentários apenas retornará undefined.
