@@ -1,6 +1,6 @@
                          Scraping Saraiva -- Uma apliacação simples para realzar consultas dentro do site Saraiva.
                          
-🛠️ Construído -- O projeto construido com Node JS.
+🛠️ Construído -- Construido com Node JS.
 
 ✒️ Autores -- Mateus Jensen | Moyando
 
