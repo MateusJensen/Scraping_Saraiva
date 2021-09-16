@@ -1,4 +1,4 @@
-              Scraping Saraiva -- Uma apliacação simples para realzar consultas dentro do site Saraiva.
+              SCRAPING SARAIVA -- Uma apliacação simples para realzar consultas dentro do site Saraiva.
                          
 🛠️ Construído -- Construido com Node JS.
 
@@ -6,7 +6,7 @@
 
 📄 Licença -- Este projeto está sob a licença (MIT).
 
-        Utilização
+        UTILIZAÇÃO
 
 1 - Faça o download do repositório;
 
