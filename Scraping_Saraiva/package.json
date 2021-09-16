@@ -1,0 +1,36 @@
+{
+  "name": "scrap_saraiva",
+  "version": "1.0.0",
+  "description": "Aplicação de coleta de dados do site Saraiva.",
+  "main": "api.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "mkdirp": "^1.0.4",
+    "puppeteer": "^10.2.0",
+    "readline-sync": "^1.4.10",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MateusJensen/Scraping_Saraiva.git"
+  },
+  "keywords": [
+    "saraiva",
+    "scraping",
+    "nodeJS",
+    "puppeteer"
+  ],
+  "author": "Mateus Jensen | Moyando",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MateusJensen/Scraping_Saraiva/issues"
+  },
+  "homepage": "https://github.com/MateusJensen/Scraping_Saraiva#readme"
+}
