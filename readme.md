@@ -16,7 +16,7 @@
 
 4 - Para que um dos dois tipos de consultas sejam realizados é necessário atribuir ao método POST dentro app Postman um body com o objeto de requisição abaixo:
 
-  1° BODY ---> Devolve três livros com base no filtro de pesquisa escolhido (1 = Mais vendidos) & (2 = Maior desconto)
+  1° ---> Devolve três livros com base no filtro de pesquisa escolhido (1 = Mais vendidos) & (2 = Maior desconto)
   
        Rota/url -> http:localhost:4000/livros
   
@@ -25,7 +25,7 @@
         "CATEGORIA": (1 ou 2)
       }
       
-  2° BODY ---> Devolve três comentários sobre o livro que deseja pesquisar. Caso não haja comentários apenas retornará undefined.
+  2° ---> Devolve três comentários sobre o livro que deseja pesquisar. Caso não haja comentários apenas retornará undefined.
       
        Rota/url -> http:localhost:4000/comentarios
        
