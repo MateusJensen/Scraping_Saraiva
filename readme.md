@@ -1,4 +1,4 @@
-              SCRAPING SARAIVA -- Uma apliacação simples para realzar consultas dentro do site Saraiva.
+# SCRAPING SARAIVA -- Uma apliacação simples para realzar consultas dentro do site Saraiva.
                          
 🛠️ Construído -- Construido com Node JS.
 
