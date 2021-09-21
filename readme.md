@@ -8,7 +8,7 @@
 
 📄 Licença -- Este projeto está sob a licença (MIT).
 
-        UTILIZAÇÃO
+    UTILIZAÇÃO
 
 1 - Faça o download do repositório;
 
